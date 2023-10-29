@@ -1,53 +1,53 @@
 {
-  "hash": "4f5b7503",
-  "browserHash": "65ecddaa",
+  "hash": "bc02dc37",
+  "browserHash": "4a916162",
   "optimized": {
     "react": {
-      "src": "../../../Proyecto/node_modules/react/index.js",
+      "src": "../../node_modules/react/index.js",
       "file": "react.js",
-      "fileHash": "f2507413",
+      "fileHash": "0f1ddd6b",
       "needsInterop": true
     },
     "react-dom/client": {
-      "src": "../../../Proyecto/node_modules/react-dom/client.js",
+      "src": "../../node_modules/react-dom/client.js",
       "file": "react-dom_client.js",
-      "fileHash": "d3c4b0c5",
+      "fileHash": "a59bd2fc",
       "needsInterop": true
     },
     "react-router-dom": {
-      "src": "../../../Proyecto/node_modules/react-router-dom/dist/index.js",
+      "src": "../../node_modules/react-router-dom/dist/index.js",
       "file": "react-router-dom.js",
-      "fileHash": "67aa57f7",
+      "fileHash": "8dec09e1",
       "needsInterop": false
     },
     "firebase/firestore": {
-      "src": "../../../Proyecto/node_modules/firebase/firestore/dist/esm/index.esm.js",
+      "src": "../../node_modules/firebase/firestore/dist/esm/index.esm.js",
       "file": "firebase_firestore.js",
-      "fileHash": "bcc19e9f",
+      "fileHash": "21447ef7",
       "needsInterop": false
     },
     "firebase/app": {
-      "src": "../../../Proyecto/node_modules/firebase/app/dist/esm/index.esm.js",
+      "src": "../../node_modules/firebase/app/dist/esm/index.esm.js",
       "file": "firebase_app.js",
-      "fileHash": "ec53817c",
+      "fileHash": "61c10c80",
       "needsInterop": false
     },
     "@firebase/firestore": {
-      "src": "../../../Proyecto/node_modules/@firebase/firestore/dist/index.esm2017.js",
+      "src": "../../node_modules/@firebase/firestore/dist/index.esm2017.js",
       "file": "@firebase_firestore.js",
-      "fileHash": "7434c376",
+      "fileHash": "1f279291",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-DY6GDWNX": {
-      "file": "chunk-DY6GDWNX.js"
+    "chunk-ZAUFE7H7": {
+      "file": "chunk-ZAUFE7H7.js"
     },
-    "chunk-BOHQLA45": {
-      "file": "chunk-BOHQLA45.js"
+    "chunk-3URZEHDO": {
+      "file": "chunk-3URZEHDO.js"
     },
-    "chunk-PNMYZP56": {
-      "file": "chunk-PNMYZP56.js"
+    "chunk-4IUR7QXR": {
+      "file": "chunk-4IUR7QXR.js"
     },
     "chunk-UXIASGQL": {
       "file": "chunk-UXIASGQL.js"

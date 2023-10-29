@@ -17,10 +17,10 @@ import {
   onLog,
   registerVersion,
   setLogLevel
-} from "./chunk-PNMYZP56.js";
+} from "./chunk-4IUR7QXR.js";
 import "./chunk-UXIASGQL.js";
 
-// ../Proyecto/node_modules/firebase/app/dist/esm/index.esm.js
+// node_modules/firebase/app/dist/esm/index.esm.js
 var name = "firebase";
 var version = "10.5.0";
 registerVersion(name, version, "app");

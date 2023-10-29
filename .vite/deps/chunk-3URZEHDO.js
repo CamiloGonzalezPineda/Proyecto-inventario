@@ -16,9 +16,9 @@ import {
   isIndexedDBAvailable,
   isSafari,
   registerVersion
-} from "./chunk-PNMYZP56.js";
+} from "./chunk-4IUR7QXR.js";
 
-// ../Proyecto/node_modules/@firebase/webchannel-wrapper/dist/esm/index.esm2017.js
+// node_modules/@firebase/webchannel-wrapper/dist/esm/index.esm2017.js
 var commonjsGlobal = typeof globalThis !== "undefined" ? globalThis : typeof window !== "undefined" ? window : typeof global !== "undefined" ? global : typeof self !== "undefined" ? self : {};
 var esm = {};
 var k;
@@ -2819,7 +2819,7 @@ var XhrIo = esm.XhrIo = P;
 var Md5 = esm.Md5 = S;
 var Integer = esm.Integer = T;
 
-// ../Proyecto/node_modules/@firebase/firestore/dist/index.esm2017.js
+// node_modules/@firebase/firestore/dist/index.esm2017.js
 var w2 = "@firebase/firestore";
 var User = class {
   constructor(e) {
@@ -18384,4 +18384,4 @@ export {
    * limitations under the License.
    *)
 */
-//# sourceMappingURL=chunk-BOHQLA45.js.map
+//# sourceMappingURL=chunk-3URZEHDO.js.map

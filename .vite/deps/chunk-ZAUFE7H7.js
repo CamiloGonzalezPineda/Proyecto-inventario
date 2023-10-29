@@ -2,9 +2,9 @@ import {
   __commonJS
 } from "./chunk-UXIASGQL.js";
 
-// ../Proyecto/node_modules/react/cjs/react.development.js
+// node_modules/react/cjs/react.development.js
 var require_react_development = __commonJS({
-  "../Proyecto/node_modules/react/cjs/react.development.js"(exports, module) {
+  "node_modules/react/cjs/react.development.js"(exports, module) {
     "use strict";
     if (true) {
       (function() {
@@ -1875,9 +1875,9 @@ var require_react_development = __commonJS({
   }
 });
 
-// ../Proyecto/node_modules/react/index.js
+// node_modules/react/index.js
 var require_react = __commonJS({
-  "../Proyecto/node_modules/react/index.js"(exports, module) {
+  "node_modules/react/index.js"(exports, module) {
     if (false) {
       module.exports = null;
     } else {
@@ -1902,4 +1902,4 @@ react/cjs/react.development.js:
    * LICENSE file in the root directory of this source tree.
    *)
 */
-//# sourceMappingURL=chunk-DY6GDWNX.js.map
+//# sourceMappingURL=chunk-ZAUFE7H7.js.map

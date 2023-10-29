@@ -1,4 +1,4 @@
-// ../Proyecto/node_modules/@firebase/util/dist/index.esm2017.js
+// node_modules/@firebase/util/dist/index.esm2017.js
 var stringToByteArray$1 = function(str) {
   const out = [];
   let p = 0;
@@ -515,7 +515,7 @@ function getModularInstance(service) {
   }
 }
 
-// ../Proyecto/node_modules/@firebase/component/dist/esm/index.esm2017.js
+// node_modules/@firebase/component/dist/esm/index.esm2017.js
 var Component = class {
   /**
    *
@@ -804,7 +804,7 @@ var ComponentContainer = class {
   }
 };
 
-// ../Proyecto/node_modules/@firebase/logger/dist/esm/index.esm2017.js
+// node_modules/@firebase/logger/dist/esm/index.esm2017.js
 var instances = [];
 var LogLevel;
 (function(LogLevel2) {
@@ -954,7 +954,7 @@ function setUserLogHandler(logCallback, options) {
   }
 }
 
-// ../Proyecto/node_modules/idb/build/wrap-idb-value.js
+// node_modules/idb/build/wrap-idb-value.js
 var instanceOfAny = (object, constructors) => constructors.some((c) => object instanceof c);
 var idbProxyableTypes;
 var cursorAdvanceMethods;
@@ -1097,7 +1097,7 @@ function wrap(value) {
 }
 var unwrap = (value) => reverseTransformCache.get(value);
 
-// ../Proyecto/node_modules/idb/build/index.js
+// node_modules/idb/build/index.js
 function openDB(name2, version2, { blocked, upgrade, blocking, terminated } = {}) {
   const request = indexedDB.open(name2, version2);
   const openPromise = wrap(request);
@@ -1161,7 +1161,7 @@ replaceTraps((oldTraps) => ({
   has: (target, prop) => !!getMethod(target, prop) || oldTraps.has(target, prop)
 }));
 
-// ../Proyecto/node_modules/@firebase/app/dist/esm/index.esm2017.js
+// node_modules/@firebase/app/dist/esm/index.esm2017.js
 var PlatformLoggerServiceImpl = class {
   constructor(container) {
     this.container = container;
@@ -2142,4 +2142,4 @@ export {
    * limitations under the License.
    *)
 */
-//# sourceMappingURL=chunk-PNMYZP56.js.map
+//# sourceMappingURL=chunk-4IUR7QXR.js.map
