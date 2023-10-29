@@ -1,0 +1,123 @@
+
+.header,a { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    border-radius: 4px;
+    font-size: 20px;
+    text-decoration: none;
+    outline: none;
+    gap: 10px;
+    
+  
+   
+}
+a{
+    background-color: black;
+    width: 40%;
+    height: 50px;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+.guarPro{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.guarProo{
+    background-color: rgb(104, 109, 109);
+    width: 100%;
+    margin-top: 10px;
+}
+/*-------------------------Inventario---------------------------------------*/
+h3{
+    background-color: rgb(218, 221, 221);
+    margin-left: 20%;
+    margin-right:20%;
+}
+
+.delete{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    border: none;
+    font-size: 15px;
+}
+
+
+/*--------------------------Formulario--------------------------------------*/
+
+body{
+background-color: rgb(200, 200, 200);
+}
+
+.formulario{
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+    
+}
+ input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 20px;
+    background-color: rgb(200, 200, 200);
+    color: rgb(0, 0, 0);
+    margin: 40px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid rgb(86, 81, 81);
+    font-size: 20px;
+ }
+
+ .save{
+   background-color: black;
+   border: none;
+   border-radius: 4px;
+   color: white;
+   
+ }
+
+ .but{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    margin-right: 10%;
+
+ }
+
+ /*---------------------------Ventas-------------------------------------*/
+.shop{
+    display: flex;
+    justify-content: center;
+    
+}
+.start{
+    background-color: rgb(104, 109, 109);
+    margin-top: 10px;
+    width: 100%;
+}
+
+.insert{
+    display: flex;
+    background-color: black;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    
+}
+.butD{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    margin-right: 10%;
+
+}
+

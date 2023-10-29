@@ -42,7 +42,9 @@ function CrearVenta(){
                         placeholder="producto"
                         type="text" 
                     />
-                    <button onClick={agregarventa} type="button">agregar</button>
+                    <section className="butD">
+                    <button onClick={agregarventa} type="button" className="insert">Agregar</button>
+                    </section>
                 </form>
             </section>
         </>

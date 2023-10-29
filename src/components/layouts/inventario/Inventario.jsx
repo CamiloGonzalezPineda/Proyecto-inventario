@@ -33,8 +33,8 @@ function Inventario(){
                 </section>
             </header>
             <Header />
-            <section>
-                <Link to ="/crearproducto" >guardar producto</Link>
+            <section className="guarPro">
+                <Link to ="/crearproducto"className="guarProo">Guardar producto</Link>
             </section>
             <section className="producto">
                 {productos.map((producto)=>(
@@ -42,7 +42,7 @@ function Inventario(){
                         <h3>nombre: {producto.nombre}</h3>
                         <h3>cantidad: {producto.cantidad}</h3>
                         <h3>valor: {producto.valor}</h3>
-                        <button onClick={()=>eliminarProducto(producto.id)} type="button">eliminar</button>
+                        <button onClick={()=>eliminarProducto(producto.id)} type="button" className="delete">eliminar</button>
                     </section>
                 ))}
             </section>

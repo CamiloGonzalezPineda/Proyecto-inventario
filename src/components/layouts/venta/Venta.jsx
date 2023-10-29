@@ -22,11 +22,11 @@ function Venta(){
     return(
         <>
             <section>
-                <h1>VENTA</h1>
+                <h1>VENTAS</h1>
             </section>
             <Header />
-            <section>
-                <Link to="/crearventa">iniciar venta</Link>
+            <section className="shop"> 
+                <Link to="/crearventa" className="start">Iniciar venta</Link>
             </section>
             <section className="producto">
                 <h1>HISTORIAL DE VENTAS</h1>

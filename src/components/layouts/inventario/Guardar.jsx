@@ -38,7 +38,9 @@ function Guardar(){
                         placeholder="valor unitario"
                         type="text" 
                     />
-                    <button onClick={agregarproducto} type="button">agregar</button>
+                    <section className="but">
+                    <button onClick={agregarproducto} type="button" className="save">Agregar</button>
+                    </section>
                 </form>
             </section>
         </>
